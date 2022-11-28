@@ -1,0 +1,159 @@
+body {
+    background-color: #fff;
+    margin: 0;
+    }
+
+div {
+    text-align: center;
+    }
+
+form {
+    padding-left: 40px;
+    }
+
+header {
+    height: 75px;
+    background-color: #345494;
+    }
+
+th {
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    }
+
+td {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    }
+
+table {
+    text-align: center;
+    padding-bottom: 60px;
+    padding-right: 100px;
+    padding-left: 60px;
+}
+
+table tr th:nth-child(1) {
+    width: 50%;
+    }
+  
+  
+.image {
+    margin-top: 8px;
+    margin-left: 15px;
+    }
+
+.nav {
+    margin: 30px;
+    float: right;
+    color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    }
+
+.edit {
+    margin: 30px;
+    float: right;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    }
+
+.addToCart {
+    margin: 30px;
+    float: right;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    }
+
+.delete {
+    margin: 30px;
+    float: right;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    }
+
+h1 {
+    margin-top: 15px;
+    margin-left: 30px;
+    float: left;
+    color: #bfc3c9;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2.5rem;
+    }
+
+h2 {
+    padding-left: 100px;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2.5rem;
+    }
+
+.details-saved {
+    padding-left: 100px;
+    color: #1bb667; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-bottom: 50px;;
+    }
+
+.item-cart {
+    padding-left: 100px;
+    color: #1bb667; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    }
+
+.item-removed {
+    padding-left: 100px;
+    color: #1bb667; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    }
+
+.no-items {
+    padding-left: 100px;
+    color: #9b9b9b; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    }
+
+.no-items-menu {
+    color: #345494; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    }    
+
+.submit-save{
+    background-color: #345494;
+    color: #ffffff; 
+    font-family: Helvetica, Arial, sans-serif;
+    block-size: 50px;
+    inline-size: 140px;
+    font-weight: bold;
+    }
+
+footer {
+    background: #bcbcbc;
+    padding: 5px;
+    }
+
+h3 {
+    margin-left: 5px;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    }
+
