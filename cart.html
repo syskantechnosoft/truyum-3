@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>cart</title>
+        <link rel="stylesheet" href="style/style.css">
+        <script src="js/script.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <header>
+            <h1>truYum</h1>
+            <img src="images/truyum.png" class="image" name="truyum"  width="50" height="50">
+            <a href="cart.html" class="nav">Cart</a>
+            <a href="menu-item-list-customer.html" class="nav">Menu</a>
+        </header>
+        <h2>Cart</h2>
+        <form action="cart-notification.html">
+            <table class="table">
+                <tr>
+                    <th>Name</th>
+                    <th>Free Delivery</th>
+                    <th>Price</th>
+                </tr>
+                <tr>
+                    <td>Sandwich</td>
+                    <td>Yes</td>
+                    <td>RS. 99.00</td>
+                    <td><input type="submit" class="delete" id="submit" onclick="deleteItem();" value="delete"></td>
+                </tr>
+            </table>
+        </form>
+        <footer>
+            <h3>Copyright © 2022</h3>   
+        </footer>
+    </body>
+</html>
